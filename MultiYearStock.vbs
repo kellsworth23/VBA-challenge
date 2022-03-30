@@ -40,6 +40,9 @@ Sub MultiYearStock()
         For i = 0 To 2
             summaryArray(i, 0) = ""
             summaryArray(i, 1) = 0
+            If (i = 1) Then
+                summaryArray(i, 1) = 99999999
+            End If
         Next i
         
         ' ADDING NEW COLUMNS NAMES
