@@ -1,5 +1,11 @@
 # VBA Homework: The VBA of Wall Street
 # Solution Week 2
+
+The pseudo code definitely helped to solve this faster. The initialization of the column numbers I did at the beginning might be an overkiller, but it helped me to not have to count the number column of column I needed everytime I needed the value (I just use the variable).
+
+Over all it was fun. 
+
+
 ## Background
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment, you will use VBA scripting to analyze generated stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
